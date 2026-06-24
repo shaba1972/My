@@ -6,7 +6,7 @@ namespace consoleApp1
     {
         static void Main()
         {
-            // A program to calculate the grade of students
+          /*  // A program to calculate the grade of students
             int  currentAssignments = 5;
 
             int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
@@ -31,7 +31,7 @@ namespace consoleApp1
 
             Console.WriteLine("Press the Enter key to continue");
             Console.ReadLine();
-
+*/
 
 
 
